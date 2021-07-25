@@ -1,5 +1,5 @@
 title = "PADLOCK"
-baseURL = "http://localhost"
+baseURL = "https://padlock-xpl.org"
 theme = "ananke"
 resourceDir = "../resources"
 
