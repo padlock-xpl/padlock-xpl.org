@@ -45,6 +45,15 @@ PoSW.
 Not started
 
 
+# UTXO set sharding
+UTXO sharding allows for nodes to only store a small portion of the UTXO set.
+This would allow for the storage of UTreeXO merkle proofs to be decentralized
+and make it so users would not have to rely on a higher class of node that
+stores the UTXO set. However, it is even possible to fully validate the chain
+without storing any of the UTXO set, and only a small (<1 kilobyte) amount of
+data, thanks to UTreeXO.
+
+
 # Single shard mainnet
 Whether or not mainnet will be released as a single shard initially is unsure.
 It depends on the demand for PADLOCK at the time.
