@@ -20,4 +20,5 @@ start working on different parts of it. However, if you have any suggestions,
 please let me know!
 
 # Who develops this?
-Currently, I do. My github is McFranko, and my email is ellis@mcfranko.com
+Currently, I am the only developer. My github is McFranko, and my email is
+ellis@mcfranko.com
