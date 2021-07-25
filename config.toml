@@ -31,3 +31,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/bigpic.jpg"
   recent_posts_number = 2
+
+[outputFormats]
+[outputFormats.HTML]
+mediaType = "text/html"
