@@ -2,4 +2,4 @@
 title: "PADLOCK"
 description: "Protocol Allowing Decentralized Large thrOughput Coins, Kool"
 ---
-A highly scalable and decentralized blockchain protocol
+Decentralized, fast, cheap, global and secure value transfer over the internet.
