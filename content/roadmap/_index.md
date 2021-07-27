@@ -15,7 +15,7 @@ On PADLOCK, UTreeXO will not only significantly reduce the overhead of storing
 and validating transactions, it's also what allows UTXO set sharding to work.
 
 #### State of Development
-Not started
+Started
 
 
 # Proof of Staked Work implementation
