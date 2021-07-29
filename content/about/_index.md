@@ -6,6 +6,9 @@ this means low fees even when the network is under use. For anyone who wants to
 run a validating node, or produce blocks, this means that the overhead of
 running a node is low, despite PADLOCK providing very high throughput.
 
+PADLOCK's whitepaper can be found
+[here](https://github.com/padlock-xpl/padlock-whitepaper)
+
 PADLOCK utilises various techniques such as sharding, UTreeXO, UTXO expiry, UTXO
 commitments and Proof of Staked Work to allow for very high throughput and low
 fees, well still remaining decentralized.

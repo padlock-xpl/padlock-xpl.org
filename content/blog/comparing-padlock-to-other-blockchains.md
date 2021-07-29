@@ -23,6 +23,15 @@ convincing [proof that lightning can't scale well remaining decentralized
 It would result in an easily regulated class of supernodes. Not great for
 censorship resistance.
 
+Third, in order for lightning to scale, Bitcoin Core would need a block size
+increase. To onboard everyone in the US with just one channel would take nearly
+3 and a half years (`330,000,000 / 3 tps / 60 seconds in a minute / 60 minutes
+in hour / 24 hours in days / 365 days in year = 3.49`). Also, sometimes channels
+will need to be rebalanced, which creates more transactions. This also is
+assuming no other transactions are being made. You'll also need to open more
+than one channel most likely. With four channels (which is on the low side) it'd
+take 14 years (`3.49 * 4 = 13.96`)
+
 PADLOCK aims to scale on-chain, which is much simpler and doesn't result in a
 special and easily regulated class of supernodes, like lightning does.
 
